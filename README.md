@@ -3,6 +3,7 @@
 ### <section style='color: Orange;'>[Premiss]</section>
 I was tired of manually calculating it every time so I made a program to do it for me.
 
+![D4 Dungoen Calculator](https://i.imgur.com/OSB2asr.png)
 ### <section style='color: Orange;'>[Features]</section>
 - Genral monster level calculator for whatever tier you select.
 - Optimal XP calculator, once you enter your player level this will tell you the dungeon tier you should be running to get the 30% Monster XP bonus.
