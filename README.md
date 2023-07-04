@@ -21,5 +21,5 @@ I was tired of manually calculating it every time so I made a program to do it f
 - [AutoPy2Exe](https://pypi.org/project/auto-py-to-exe/) - To build the Exe
 
 ### <section style='color: orange;'>[Notes on Usage]</section>
-    [Filter Boxes]
-        -Enter a integer and press enter to have it automatically select the appropriate value in the combo boxes. (if you do not press enter or leave focus (tab out of the control) it will not execute the filtering command), I recommend using this feature and getting used to it as much as you can before you click calculate because the calculation only takes whats in the combo boxes as inputs and both combo boxes are read only.
+[Filter Boxes]
+- Enter a integer and press enter to have it automatically select the appropriate value in the combo boxes. (if you do not press enter or leave focus (tab out of the control) it will not execute the filtering command), I recommend using this feature and getting used to it as much as you can before you click calculate because the calculation only takes whats in the combo boxes as inputs and both combo boxes are read only.
