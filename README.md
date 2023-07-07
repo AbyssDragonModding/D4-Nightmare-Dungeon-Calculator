@@ -11,6 +11,7 @@ I was tired of manually calculating it every time so I made a program to do it f
 
 ### <section style='color: Orange;'>[Future plans]</section>
 - Add additional tiers if they ever add more to the game
+- conversion to base tkinter library (i just found out that tkinter can use themes for a more modern look)
 - More code adjustments and optimization
 - Make a seperate hosted web version (This version on this github repo is written in python 3.11, I just will have to learn javascript to make this a web version, I know how to do HTML and CSS very well, as I have to learn javascript on my free time I have no idea when this will be with some other projects in mind (one being volenteering for the Skyblivion team, a mod team remaking Oblivion in Skyrim's Engine))
 
@@ -24,3 +25,7 @@ I was tired of manually calculating it every time so I made a program to do it f
 ### <section style='color: orange;'>[Notes on Usage]</section>
 [Filter Boxes]
 - Enter a integer and press enter to have it automatically select the appropriate value in the combo boxes. (if you do not press enter or leave focus (tab out of the control) it will not execute the filtering command), I recommend using this feature and getting used to it as much as you can before you click calculate because the calculation only takes whats in the combo boxes as inputs and both combo boxes are read only.
+
+###[Change-Log]
+[Version 1.0.0]
+- initial release
