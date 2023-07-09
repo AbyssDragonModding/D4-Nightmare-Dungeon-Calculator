@@ -1,8 +1,5 @@
 ## D4 Nightmare Dungeon Calculator
-## Version 1.1.0 in progress
-- Code Rerwite (yes already): Code entirely rewriten and more organized
-- Remove dependency of Custom Tkinter (Using a different library) so I am shifting over to the new library.
-- Removes dependency on pillow (wasn't using it just forgot to remove it from the code originally)
+## Version 1.1.0 in progress - Check Changelog for up to date changes during development
 
 ## <span style='color: Orange;'>[Premiss]</span>
 I was tired of manually calculating it every time so I made a program to do it for me.
