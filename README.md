@@ -1,7 +1,7 @@
 ## D4 Nightmare Dungeon Calculator
 ## Version 1.1.0 in progress
-- Code Rerwite (yes already): most of the code is entirely rewritten, the only one that is retained is the code in main.py to run the app
-- Remove dependency of Custom Tkinter (I found out base Tkinter library can use themes and make it look more modern) so I am shifting over to the base tkinter library, this also gives me more options on the UI design as tkinter has more controls than customTkinter.
+- Code Rerwite (yes already): Code entirely rewriten and more organized
+- Remove dependency of Custom Tkinter (Using a different library) so I am shifting over to the new library.
 - Removes dependency on pillow (wasn't using it just forgot to remove it from the code originally)
 
 ## <span style='color: Orange;'>[Premiss]</span>
