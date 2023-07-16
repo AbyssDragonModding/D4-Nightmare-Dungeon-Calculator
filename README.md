@@ -36,12 +36,6 @@ I was tired of manually calculating it every time so I made a program to do it f
 - initial release
 
 #### [Version 1.1.0] (In Progress...)
-- <span style='color:orange;'>* Changed:</span> Complete recode from scratch to optimize calculations as well as use a different GUI Framework called TTKBootstrap as well as organizing the file structure better
-- <span style='color:orange;'>* Changed:</span> GUI Kit from CustomTkinter to TTKBootstrap
-- <span style='color:green;'>+ Added:</span> Dependency - Tkinter TTk
-- <span style='color:green;'>+ Added:</span> Dependency - Sun Valley Tkinter Theme (For the TabView custom widget)
-- <span style='color:green;'>+ Added:</span> Dependency - TTKBootstrap
-- <span style='color:red;'>- Removed Dependency:</span> Pillow Module (I wasn't using it in the final code and forgot to remove it)
-- <span style='color:red;'>- Removed Dependency:</span> CustomTkinter
-- <span style='color:red;'>- Removed Dependency:</span> Numpy (I was using it for some calculations but I found its not really needed for this use case and have used to python lists)
-- 
+- * Changed: Complete recode from scratch
+- * Changed: Changed code language to C# instead of python (easier to design ui in c# and takes less time to make changes to the UI)
+- + Added: NuGet package for googles material design for a modern look.
